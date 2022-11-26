@@ -5,6 +5,7 @@ public class EjemploGit {
 		// TODO Auto-generated method stub
 		System.out.println("Hola DAM B");
 		String nombre = "Félix Guerra";
+		System.out.println(nombre);
 	}
 
 }
